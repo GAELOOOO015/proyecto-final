@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    text-align: center;
+    background-color: azure;
+    background: linear-gradient(turquoise, aqua);
+}
+h1{
+    color: cadetblue;
+    font-size: 50px;
+    font-weight: bolder;
+    text-shadow: 5px 5px 5px black;
+    margin: 20px;
+}
+#img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+}
+#img:hover{
+    transform: scale(1.5);
+    transform: rotate(1080deg);
+    transition: 5s all ease;
+}

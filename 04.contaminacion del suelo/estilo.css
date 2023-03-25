@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    text-align: center;
+    background-color: black;
+    background: linear-gradient(rgb(130, 229, 238), rgb(0, 41, 128));
+}
+h1{
+    color: red;
+    font-size: 50px;
+    font-weight: bolder;
+    text-shadow: 5px 5px 5px white;
+    margin: 20px;
+}

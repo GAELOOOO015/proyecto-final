@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: linear-gradient(green, yellow);
+}
+h1{
+    color: brown;
+    font-size: 50px;
+    font-weight: bolder;
+    text-shadow: 5px 5px 5px black;
+    margin: 20px;
+
+}
+#imagen{
+    width: 200px;
+    height: 200px;
+}
